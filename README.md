@@ -1,2 +1,3 @@
 # LinkedList
-This is a singlylinkedlist
+
+Made a Singly Linked List to better understand how it functions. 
